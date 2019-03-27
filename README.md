@@ -3,3 +3,5 @@ It is a drone with 2 wings with 2 motors each. It can fly in the two flight mode
 The flight model is constructed with FreeCad and 3d-printed.
 
 Folding propellers are developed for the model, 3d-printed and measured with a developed test system.
+
+The model is in progress.
